@@ -5,6 +5,10 @@
     <title>Document</title>
 </head>
 <body>
-    
+
+<?php
+
+print('phpで遊んでます！');
+?>
 </body>
 </html>
